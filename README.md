@@ -1,7 +1,5 @@
 ## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Netshaze" /> </p>
-
  <a href="https://github.com/Netshaze">
   <img align="center" alt="Netshaze's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
